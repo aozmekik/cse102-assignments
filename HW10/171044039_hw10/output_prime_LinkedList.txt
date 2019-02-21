@@ -1,0 +1,5 @@
+
+Calculation time for between 1 and 500000 : 3433.160000 ms
+Calculation time for between 1 and 750000 : 7258.113000 ms
+Calculation time for between 1 and 1000000 : 12910.253000 ms
+File written time: 7.819000 ms
